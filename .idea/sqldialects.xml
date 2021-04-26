@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/resources/resources/db/migration/V1_1__create_users_table.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/resources/resources/db/migration/V1_2__create_coffees_table.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/resources/resources/db/migration/V1_3__fill_users.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/resources/resources/db/migration/V1_4__fill_coffees.sql" dialect="GenericSQL" />
+  </component>
+</project>
